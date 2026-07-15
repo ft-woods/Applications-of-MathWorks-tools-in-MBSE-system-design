@@ -59,5 +59,9 @@
 </tab
 
 ## MATLAB
+blah blah blah
 ## Simulink
-#  Practical Applications
+XYZ...
+## Practical Applications
+
+there are no practical applications im going insane
