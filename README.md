@@ -56,7 +56,7 @@
 </td>
 
 </tr>
-</tab
+</table>
 
 ## MATLAB
 blah blah blah
