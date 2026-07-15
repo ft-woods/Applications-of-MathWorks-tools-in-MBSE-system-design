@@ -33,10 +33,26 @@
   <b>MATLAB Graphing</b>
 </td>
 
-</tr>
-</table>
+<td align="center">
+  <img src="images/MATLAB4.png" width="200">
+  <br>
+  <b>MATLAB Graphing</b>
+</td>
 
-If it still only shows the first one, the problem is almost certainly that MATLAB3.png is not named exactly right or is not uploaded to the images folder.
+<td align="center">
+  <img src="images/Simulink1.png" width="200">
+  <br>
+  <b>Thermal Simulation</b>
+</td>
+
+<td align="center">
+  <img src="images/Simulink2.png" width="200">
+  <br>
+  <b>Thermal Simulation</b>
+</td>
+
+</tr>
+</tab
 
 ## MATLAB
 ## Simulink
