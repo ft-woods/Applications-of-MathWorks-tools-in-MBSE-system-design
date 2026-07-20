@@ -9,7 +9,9 @@
 - Practical Applications
 
 ## Description
+This repository is 
 
+The code, images, and examples in this repository are based on data and systems for a lunar sample containment unit intended to align with NASA's RASC-AL competition. The system itself is designed to maintain the temperature and pressure needed to store lunar samples during transit between habitats or rovers on lunar missions. Some of the systems demonstrated in this repository include the temperature sensing and warning system, the battery power and control system, as well as the cooling system itself.
 ## Examples
 
 <table>
