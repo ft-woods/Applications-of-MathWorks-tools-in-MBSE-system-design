@@ -21,40 +21,52 @@ The code, images, and examples in this repository are based on data and systems 
   <img src="images/MATLAB1.png" width="200">
   <br>
   <b>MATLAB Graphing</b>
+  <br>
+  <small>Visualization of experimental data using MATLAB plotting tools.</small>
 </td>
 
 <td align="center">
   <img src="images/MATLAB2.png" width="200">
   <br>
   <b>MATLAB Graphing</b>
+  <br>
+  <small>Comparison of multiple datasets with customized graph formatting.</small>
 </td>
 
 <td align="center">
   <img src="images/MATLAB3.png" width="200">
   <br>
   <b>MATLAB Graphing</b>
+  <br>
+  <small>Processed data displayed with labeled axes and legends.</small>
 </td>
 
-<tr>
-  
 </tr>
+
+<tr>
 
 <td align="center">
   <img src="images/MATLAB4.png" width="200">
   <br>
   <b>MATLAB Graphing</b>
+  <br>
+  <small>Final visualization highlighting key trends in the results.</small>
 </td>
 
 <td align="center">
   <img src="images/simulink1.png" width="200">
   <br>
   <b>Thermal Simulation</b>
+  <br>
+  <small>Simulink model used to simulate the thermal behavior of the system.</small>
 </td>
 
 <td align="center">
   <img src="images/Simulink2.png" width="200">
   <br>
   <b>Thermal Simulation</b>
+  <br>
+  <small>Simulation results showing temperature response over time.</small>
 </td>
 
 </tr>
