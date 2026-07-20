@@ -66,4 +66,4 @@ blah blah blah
 XYZ...
 ## Practical Applications
 
-there are no practical applications im going insane
+
