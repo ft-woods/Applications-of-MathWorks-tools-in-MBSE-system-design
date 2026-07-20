@@ -81,14 +81,14 @@ XYZ...
 <td align="center">
   <img src="images/Lab6_PowerSysMdl.png" width="200">
   <br>
-  <b>Thermal Simulation</b>
+  <b>Lab 6 control system</b>
   <br>
   <small>Simulation results showing temperature response over time.</small>
 </td>
 <td align="center">
   <img src="images/Lab6_PosSysMdl.png" width="200">
   <br>
-  <b>Thermal Simulation</b>
+  <b>Lab 6 control system</b>
   <br>
   <small>Simulation results showing temperature response over time.</small>
 </td>
