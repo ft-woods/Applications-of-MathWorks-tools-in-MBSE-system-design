@@ -9,9 +9,7 @@
 - Practical Applications
 
 ## Description
-This repository is 
-
-The code, images, and examples in this repository are based on data and systems for a lunar sample containment unit intended to align with NASA's RASC-AL competition. The system itself is designed to maintain the temperature and pressure needed to store lunar samples during transit between habitats or rovers on lunar missions. Some of the systems demonstrated in this repository include the temperature sensing and warning system, the battery power and control system, as well as the cooling system itself.
+This repository contains documentation demonstrating the use of MathWorks systems in the design of a Lunar Sample Containment System. All material was created by a team of undergraduates at the University of Michigan as part of a project associated with the Aerospace X88 course series and [NASA’s RASC-AL](https://rascal.nianet.org/) competition. To successfully design this system, MBSE methodologies were followed, such as moving through the systems V diagram from requirements to final verification and validation. In this project, MathWorks systems were primarily utilized during the verification and validation portions of the design process. MATLAB provides suitable data analysis tools to confirm requirements and identify any malfunctions in the system. Simulink was used to lay out electronic systems and controls, such as identifying the temperature in the control volume and verifying their functionality. The system itself is designed to maintain the temperature and pressure needed to store lunar samples during transit between habitats or rovers on lunar missions. Some of the systems demonstrated in this repository include the temperature sensing and warning system, the battery power and control system, as well as the cooling system itself.
 ## Examples
 
 <table>
