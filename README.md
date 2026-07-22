@@ -41,7 +41,7 @@ This repository contains documentation demonstrating the use of MathWorks system
   <br>
   <b>System precooling </b>
   <br>
-  < small> To confirm successful fluid flow through the coolant lines a test was conducted measuring the time it took for the system to reach a designated range of temperatures from room temperature.</small>
+  <small> To confirm successful fluid flow through the coolant lines a test was conducted measuring the time it took for the system to reach a designated range of temperatures from room temperature.</small>
 </td>
 
 <td align="center">
@@ -49,7 +49,7 @@ This repository contains documentation demonstrating the use of MathWorks system
   <br>
   <b>Electro-thermal battery simulation</b>
   <br>
-  < small> A Simulink model was used to simulate the impact of the lunar day environment on the battery functionality in the system.</small>
+  <small> A Simulink model was used to simulate the impact of the lunar day environment on the battery functionality in the system.</small>
 </td>
 
 <td align="center">
