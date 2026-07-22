@@ -66,7 +66,18 @@ This repository contains documentation demonstrating the use of MathWorks system
 ## MATLAB
 blah blah blah
 ## Simulink
-XYZ...
+To ensure that electronic systems were able to run under given thermal and electrical loads, the RASC-AL team utilized Simulink to set up an electro-thermal battery simulation. The simulation demonstrates the effect of all of the layers on metal, insulation, and PCM (phase change material) on protecting the system's battery from the lunar surface temperature. The simulation reads the battery's temperature as well as the current and voltage output after the application of the thermal load. 
+<td align="center">
+  <img src="images/simulink1.png" width="200">
+</td>
+
+The left-hand side of the simulation contains the thermal aspects, including the controlled source that represents the lunar surface temperature during lunar day as well as the material layers and their properties standing between the lunar surface and the battery. Then, in the center, are multiple blocks storing information about the battery, such as its heat capacity, internal resistance, and mass. These pieces of information are needed to ensure the battery is as accurate in the simulation compared to real life as possible. Finally, on the right-hand side of the simulation, the electronic measuring elements are present. These are what are sensing and outputting the current, voltage, battery temperature, and the state of change for the system.
+
+Another simulation the team utilized was one demonstrating that the PCB circuit board being used would not get too hot during operation to impede its functionality nor would the aluminum it was mounted on.
+<td align="center">
+  <img src="images/Simulink2.png" width="200">
+</td>
+
 ## Practical Applications
 
 <td align="center">
