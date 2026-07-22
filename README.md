@@ -25,7 +25,7 @@ This repository contains documentation demonstrating the use of MathWorks system
 </td>
 
 <td align="center">
-  <img src="images/MATLAB3.png" width="200">
+  <img src="images/endurance_test.png" width="200">
   <br>
   <b>MATLAB Graphing</b>
   <br>
@@ -37,7 +37,7 @@ This repository contains documentation demonstrating the use of MathWorks system
 <tr>
 
 <td align="center">
-  <img src="images/MATLAB4.png" width="200">
+  <img src="images/precooling_test.png" width="200">
   <br>
   <b>MATLAB Graphing</b>
   <br>
