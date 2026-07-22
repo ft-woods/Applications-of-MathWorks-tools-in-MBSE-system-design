@@ -11,17 +11,17 @@ This repository contains documentation demonstrating the use of MathWorks system
 <td align="center">
   <img src="images/MATLAB1.png" width="200">
   <br>
-  <b>MATLAB Graphing</b>
+  <b>Modeling of tempurature over time</b>
   <br>
-  <small>Visualization of experimental data using MATLAB plotting tools.</small>
+  < small> Using MATLAB, test data was modeled to approximate the rate at which the system changed temperature when traveling in lunar day conditions.</small>
 </td>
 
 <td align="center">
   <img src="images/MATLAB2.png" width="200">
   <br>
-  <b>MATLAB Graphing</b>
+  <b>Modeling the state of change over time </b>
   <br>
-  <small>Comparison of multiple datasets with customized graph formatting.</small>
+  <small> Using MATLAB, in alignment with the temperature of the whole system, the state of change was graphed. This was important to analize the effectiveness of the phase change material as insulation. </small>
 </td>
 
 <td align="center">
