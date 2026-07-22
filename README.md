@@ -64,7 +64,7 @@ This repository contains documentation demonstrating the use of MathWorks system
 </table>
 
 ## MATLAB
-blah blah blah
+XYZ....
 ## Simulink
 To ensure that electronic systems were able to run under given thermal and electrical loads, the RASC-AL team utilized Simulink to set up an electro-thermal battery simulation. The simulation demonstrates the effect of all of the layers on metal, insulation, and PCM (phase change material) on protecting the system's battery from the lunar surface temperature. The simulation reads the battery's temperature as well as the current and voltage output after the application of the thermal load. 
 <td align="center">
@@ -77,6 +77,7 @@ Another simulation the team utilized was one demonstrating that the PCB circuit 
 <td align="center">
   <img src="images/Simulink2.png" width="100%">
 </td>
+The top left portion of this simulation represents the 5V battery powering the system via a DC circuit. This output voltage is taken in combination with the current through the system to determine power that is then fed into a delay block. The presence of this delay allows the simulation to function similarly to the actual system, where there would be thermal inertia to overcome, which smooths out any fluctuating electrical signals. This power conducts heat, which impacts both the PCB and its aluminum housing. Considerations such as the conductivity between the PCB and the Aluminum frame, the heat capacity of both materials, and the flow of energy through the components are considered within the model to ensure the highest accuracy.
 
 ## Practical Applications
 
