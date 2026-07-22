@@ -79,7 +79,7 @@ Another simulation the team utilized was one demonstrating that the PCB circuit 
 </td>
 The top left portion of this simulation represents the 5V battery powering the system via a DC circuit. This output voltage is taken in combination with the current through the system to determine power that is then fed into a delay block. The presence of this delay allows the simulation to function similarly to the actual system, where there would be thermal inertia to overcome, which smooths out any fluctuating electrical signals. This power conducts heat, which impacts both the PCB and its aluminum housing. Considerations such as the thermal conductivity between the PCB and the Aluminum frame, the heat capacity of both materials, and the flow of energy through the components are accounted for in the model to ensure the highest accuracy. The heat data from both the PCB and the aluminum is then recorded and output for analysis, which indicates to the team that the thermal loads would allow the system to remain within functional temperature ranges while the battery powers the system.
 
-## Practical Applications
+## Other Applications
 
 <td align="center">
   <img src="images/Lab6_PowerSysMdl.png" width="200">
