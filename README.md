@@ -95,15 +95,22 @@ The top left portion of this simulation represents the 5V battery powering the s
 <td align="center">
   <img src="images/Lab6_PowerSysMdl.png" width="200">
   <br>
-  <b>Lab 6 control system</b>
+  <b>Lab 5: Statistical Modeling</b>
   <br>
-  <small>Simulation results showing temperature response over time.</small>
+  <small>This lab introduces MATLAB functionalities for statistical analysis of data and for predicting modeling of a data set. Various methods for analysis such as simple linear and multiple linear regression, and design of experiments will be utilized throughout the lab. Students make use of a variety of given data sets in order to better understand how to properly interpret the results of an experiment/test using statistical modeling.</small>
 </td>
 <td align="center">
   <img src="images/Lab6_PosSysMdl.png" width="200">
   <br>
-  <b>Lab 6 control system</b>
+  <b>Lab 6: Multi-Domain Systems</b>
   <br>
-  <small>Simulation results showing temperature response over time.</small>
+  <small>This lab starts by modeling a propeller, shaft, and motor system in the MathWorks environment, using a combination of MATLAB and Simulink/Simscape. The complexity of the modeled system is gradually increased by adding in more realistic motor control, physical responses, and eventually a control loop.</small>
+</td>
+<td align="center">
+  <img src="images/Lab6_PowerSysMdl.png" width="200">
+  <br>
+  <b>Lab 7: Programming and Control Systems</b>
+  <br>
+  <small>This lab begins by programming a microcontroller to utilize PID gain values found in Lab 6 to control a propeller system. The system is fine tuned while updating the Simulink simulation to create a simulation that better matches real life. By the end of the lab, students have a well-tuned propeller system.</small>
 </td>
 
