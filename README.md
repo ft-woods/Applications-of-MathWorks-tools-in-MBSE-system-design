@@ -93,7 +93,7 @@ The top left portion of this simulation represents the 5V battery powering the s
 ## Other Applications
 
 <td align="center">
-  <img src="images/"Lab 5 Actual vs Predicted.png" width="200">
+  <img src="images/Lab 5 Actual vs Predicted.png" width="200">
   <br>
   <b>Lab 5: Statistical Modeling</b>
   <br>
