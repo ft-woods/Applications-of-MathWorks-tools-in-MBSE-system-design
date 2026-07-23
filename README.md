@@ -99,8 +99,11 @@ The top left portion of this simulation represents the 5V battery powering the s
 </td>
 <td align="center">
   <img src="images/Lab 5 Actual vs Predicted.png" width="33%">
+  <small>Actual vs Predicted Plot<small>
   <img src="images/Lab 5 Regression Tree Example.png" width="33%">
+  <small>Regression Tree<small>
   <img src="images/Lab 5 Representation of Process Capability Example.png" width="33%">
+  <small>Representation of Process Capabability<small>
   <br>
 </td>
   <br>
