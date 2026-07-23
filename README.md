@@ -98,12 +98,12 @@ The top left portion of this simulation represents the 5V battery powering the s
   <small>This lab introduces MATLAB functionalities for statistical analysis of data and for predicting modeling of a data set. Various methods for analysis such as simple linear and multiple linear regression, and design of experiments will be utilized throughout the lab. Students make use of a variety of given data sets in order to better understand how to properly interpret the results of an experiment/test using statistical modeling.</small>
 </td>
 <td align="center">
-  <img src="images/Lab 5 Actual vs Predicted.png" width="33%">
   <small>Actual vs Predicted Plot<small>
-  <img src="images/Lab 5 Regression Tree Example.png" width="33%">
+  <img src="images/Lab 5 Actual vs Predicted.png" width="33%">
   <small>Regression Tree<small>
-  <img src="images/Lab 5 Representation of Process Capability Example.png" width="33%">
+  <img src="images/Lab 5 Regression Tree Example.png" width="33%">
   <small>Representation of Process Capabability<small>
+  <img src="images/Lab 5 Representation of Process Capability Example.png" width="33%">
   <br>
 </td>
   <br>
